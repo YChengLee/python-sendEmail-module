@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # MyConfig
+.log
 /mailSystem/my.config
