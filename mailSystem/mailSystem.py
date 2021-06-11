@@ -67,15 +67,3 @@ class MailSystem(object):
         except:
             print(">>>>>>>>SEND MAIL FAILED<<<<<<<<")
 
-# mailSever = MailSystem()
-# yourName = "数据一组-李宇铖"
-# recipientName = "数据一组-王美彦"
-# recipientMailAddress = "wangmeiyan@hsmap.com"
-# mailTitle = "2021年6月11日 通知公告(测试)"
-# mailContent = f"""
-# <p>{recipientName},你好:</p>
-# <p style="text-indent:2em;">你关注的网站已经更新，请及时查看。</p>
-# """
-# mailSever.createMail(mailTitle,mailContent)
-# mailSever.addSendInfo(yourName,recipientName,recipientMailAddress)
-# mailSever.sendMail()
