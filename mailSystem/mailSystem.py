@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Python Version : Python3.6.5 x86_64
 # @CreateTime     : 2021/6/11  14:20
-# @Author         : liyc@hsmap.cn
+# @Author         : liyc@hsmap.com
 # @File           : mailSystem.py
 # @Software       : PyCharm 2019.3
 # @UpdateTime     : 
